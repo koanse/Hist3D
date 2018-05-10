@@ -1,0 +1,8 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Hist3d\Hist3d\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Hist3d\Hist3d\obj\Debug\Hist3d.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Hist3d\Hist3d\obj\Debug\Hist3d.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Hist3d\Hist3d\bin\Debug\Hist3d.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Hist3d\Hist3d\bin\Debug\Hist3d.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Hist3d\Hist3d\obj\Debug\Hist3d.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Hist3d\Hist3d\obj\Debug\Hist3d.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Hist3d\Hist3d\obj\Debug\Hist3d.HistForm.resources
